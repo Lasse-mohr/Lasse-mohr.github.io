@@ -1,11 +1,11 @@
 # _config.yml
 
 # required, replace with your own information -----
-title: Hello for Github Pages
-author: Sara Gong
+title: Lasse Mohr - PhD Student in Computational Social Science
+author: Lasse Mohr
 description: > 
-  A minimalist template for designing a personal GitHub Pages website - without typing a single line of code.
-baseurl: ""
+  I'm a person
+baseurl: "lassismohr.com"
 
 plugins:
   - jekyll-feed
