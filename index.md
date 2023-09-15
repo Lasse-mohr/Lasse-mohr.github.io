@@ -54,3 +54,8 @@ Previously, I had the opportunity to work with the Business Authority of Denmark
 From September 2023 to February 2024, I'm joining Professor **Alex 'Sandy' Pentland**  and his team at the **MIT Media Lab** in Boston, US.
 In collaboration with Isabella Loaiza from MIT Sloan and the Human Dynamics Laboratory, we aim to unravel the nuances of mobility and career shifts on worker salaries, aiming to foster better conditions for low-wage workers.
 
+## **Section about Education**
+
+## Section about **Scholarships**
+
+## Add a button that gives my cv
